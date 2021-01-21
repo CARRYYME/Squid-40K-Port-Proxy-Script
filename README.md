@@ -5,9 +5,9 @@ Auto install Squid proxy and 30K Port on.
 It is installed as HTTP.
 
 Supported OS
-Debian 8
-Debian 9
-Debian 10
+Ubuntu 16
+Ubuntu 18
+Ubuntu 20
 Install
 To install, run the script
 
