@@ -1,6 +1,6 @@
 # Squid-40K-Port-Proxy-Script
 
-Auto install Squid proxy and 30K Port on.
+Auto install Squid proxy and 40K Port on.
 
 It is installed as HTTP.
 
