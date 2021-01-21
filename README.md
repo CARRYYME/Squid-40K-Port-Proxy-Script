@@ -12,5 +12,5 @@ Install
 To install, run the script
 
 wget https://raw.githubusercontent.com/CARRYYME/Squid-40K-Port-Proxy-Script/main/Squid.sh
-chmod +x squid-install.sh
-sudo ./squid-install.sh
+chmod +x Squid.sh
+sudo ./Squid.sh
